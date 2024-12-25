@@ -1,8 +1,9 @@
 import React from 'react';
+import brush from '../assets/brush.jpg';
 
 // Sample image paths; replace these with actual paths to your images
 const images = [
-  '/path-to-image1.jpg',
+  brush,
   '/path-to-image2.jpg',
   '/path-to-image3.jpg',
   '/path-to-image4.jpg',
